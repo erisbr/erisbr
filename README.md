@@ -2,7 +2,7 @@
 ### Sou a Sabrinne, tenho 22 anos e atualmente estou no 3° período do curso de Jogos Digitais, na PUC-Minas. 🕹🎮📚
 #
 ### Conecte-se comigo: 📱 
-<a href="https://www.linkedin.com/in/sabrinnesnatos" alt="linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/sabrinnesantos" alt="linkedin" target="_blank">
 
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 
