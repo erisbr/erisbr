@@ -30,3 +30,5 @@
 # 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erisbr&show_icons=true&theme=prussian&show"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erisbr&layout=compact&langs_count=8&theme=prussian&show_all_commits=true&count_private=true"/>
+
+![Snake animation](https://github.com/erisbr/erisbr/blob/output/github-contribution-grid-snake.svg)
