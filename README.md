@@ -1,5 +1,5 @@
 ## Olá! Prazer em conhecê-lo! 😀
-### Sou a Sabrinne, tenho 24 anos e atualmente estou no 6° período do curso de Jogos Digitais, na PUC-Minas. 🕹🎮📚
+### Sou a Sabrinne, tenho 24 anos e atualmente estou no 6° período do curso de Jogos Digitais, na PUC-Minas. Venho trabalhando em alguns projetos pessoais como programadora e como artista 3D. 🕹🎮📚
 #
 ### Conecte-se comigo: 📱 
 <a href="https://www.linkedin.com/in/sabrinnesantos" alt="linkedin" target="_blank">
