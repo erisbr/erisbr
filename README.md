@@ -1,34 +1,36 @@
-## Olá! Prazer em conhecê-lo! 😀
-### Sou a Sabrinne, tenho 24 anos e atualmente estou no 6° período do curso de Jogos Digitais, na PUC-Minas. Venho trabalhando em alguns projetos pessoais como programadora e como artista 3D. 🕹🎮📚
-#
-### Conecte-se comigo: 📱 
-<a href="https://www.linkedin.com/in/sabrinnesantos" alt="linkedin" target="_blank">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+<p align="left"> 
+  Olá, tudo bem? Eu sou a Sabrinne, <strong>Artista 3D, Programadora de Jogos e Desemvolvedora Web</strong>.<br>
+</p>
+<p align="left"> 
+ Atualmente estou no último semestre do curso de Jogos Digitais e durante essa jornada me encantei pelo universo de desenvolvimento de jogos, principalmente pela criação e composição de cenários 3D. Tenho breve experiência com programação em Unity e GameMaker, e hoje atuo na área de Desenvolvimento Web utilizando o Bubble.<br>
+</p>
 
-</a> 
-<a href="https://wa.me/+5531984836540" alt="WhatsApp" target="_blank">
+<p align="left">
+  🦄 Linguagens: C#, GML (GameMaker Language), JavaScript, HTML e CSS.
+</p>
 
-<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/<SEUNUMERO>"/>
+<p align="left">
+  💼 Ferramentas: Blender, Unity, GameMaker, Substance Painter, Bubble e Photoshop.
+</p>
 
-</a>
-<a href="https://erisbr.itch.io/" alt="Itch.io" target="_blank">
+<p align="left">
+  💌 Você pode conhecer um pouco mais sobre mim e sobre meus trabalhos e projetos através dos links abaixo:
+</p>
 
-<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white">
+<p align="left">
 
-</a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santossabrinne" alt="LinkedIn"/></a>
 
-#
-### Habilidades: 💻
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=Adobe-Photoshop&logoColor=31A8FF)
-![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-333333?style=flat&logo=Adobe-Lightroom&logoColor=31A8FF)
-![HMTL 5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=E34F26)
-![CSS 3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=Unity&logoColor=000000)
-![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=white)
-![Aseprite](https://img.shields.io/badge/-Aseprite-333333?style=flat&logo=Aseprite&logoColor=7D929E)
-# 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=erisbr&show_icons=true&theme=prussian&show"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erisbr&layout=compact&langs_count=8&theme=prussian&show_all_commits=true&count_private=true"/>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/erisbr_" alt="Instagram"/></a>
 
-![Snake animation](https://github.com/erisbr/erisbr/blob/output/github-contribution-grid-snake.svg)
+  <a href="#" title="ArtStation">
+  <img src="https://img.shields.io/badge/-ArtStation-13AFF0?style=flat-square&labelColor=13AFF0&logo=ArtStation&logoColor=white&link=https://www.artstation.com/erisbr" alt="Artstation"/></a>
+
+  <a href="#" title="Itch.io">
+  <img src="https://img.shields.io/badge/-Itch.io-FA5C5C?style=flat-square&labelColor=FA5C5C&logo=ArtStation&logoColor=white&link=https://erisbr.itch.io/" alt="Itch.io"/></a>
+  
+</p>
