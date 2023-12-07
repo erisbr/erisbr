@@ -21,16 +21,16 @@
 
 <p align="left">
 
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santossabrinne" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/santossabrinne" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/erisbr_" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/erisbr_" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
-  <a href="#" title="ArtStation">
-  <img src="https://img.shields.io/badge/-ArtStation-13AFF0?style=flat-square&labelColor=13AFF0&logo=ArtStation&logoColor=white&link=https://www.artstation.com/erisbr" alt="Artstation"/></a>
+  <a href="https://www.artstation.com/erisbr" title="ArtStation">
+  <img src="https://img.shields.io/badge/-ArtStation-13AFF0?style=flat-square&labelColor=13AFF0&logo=ArtStation&logoColor=white" alt="Artstation"/></a>
 
-  <a href="#" title="Itch.io">
-  <img src="https://img.shields.io/badge/-Itch.io-FA5C5C?style=flat-square&labelColor=FA5C5C&logo=ArtStation&logoColor=white&link=https://erisbr.itch.io/" alt="Itch.io"/></a>
+  <a href="https://erisbr.itch.io" title="Itch.io">
+  <img src="https://img.shields.io/badge/-Itch.io-FA5C5C?style=flat-square&labelColor=FA5C5C&logo=ArtStation&logoColor=white" alt="Itch.io"/></a>
   
 </p>
