@@ -34,3 +34,5 @@
   <img src="https://img.shields.io/badge/-Itch.io-FA5C5C?style=flat-square&labelColor=FA5C5C&logo=ArtStation&logoColor=white" alt="Itch.io"/></a>
   
 </p>
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=erisbr&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
