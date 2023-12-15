@@ -27,7 +27,7 @@
   <a href="https://www.instagram.com/erisbr_" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
-  <a href="https://www.artstation.com/erisbr" title="ArtStation">
+  <a href="https://www.artstation.com/sabrinner" title="ArtStation">
   <img src="https://img.shields.io/badge/-ArtStation-13AFF0?style=flat-square&labelColor=13AFF0&logo=ArtStation&logoColor=white" alt="Artstation"/></a>
 
   <a href="https://erisbr.itch.io" title="Itch.io">
