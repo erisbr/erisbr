@@ -4,7 +4,7 @@
   Olá, tudo bem? Eu sou a Sabrinne, <strong>Artista 3D e Programadora de Jogos</strong> nas horas vagas.<br>
 </p>
 <p align="left"> 
- Atualmente sou formada em Jogos Digitais e e hoje busco me especializar na arte 3D, principalmente na ciração e composição de cenários. Também tenho breve experiência com programação em Unity e GameMaker.<br>
+ Atualmente sou formada em Jogos Digitais e hoje busco me especializar na arte 3D, principalmente na ciração e composição de cenários. Também tenho breve experiência com programação em Unity e GameMaker.<br>
 </p>
 
 <p align="left">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: Blender, Unity, GameMaker, Substance Painter, Bubble e Photoshop.
+  💼 Ferramentas: Blender, Unity, GameMaker, Substance Painter e Photoshop.
 </p>
 
 <p align="left">
