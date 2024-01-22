@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, tudo bem? Eu sou a Sabrinne, <strong>Artista 3D e Programadora de Jogos</strong> nas horas vagas.<br>
+  Olá, tudo bem? Eu sou a Sabrinne, <strong>Artista 3D</strong> (e Prpgramadora de Jogos nas horas vagas).<br>
 </p>
 <p align="left"> 
  Atualmente sou formada em Jogos Digitais e hoje busco me especializar na arte 3D, principalmente na ciração e composição de cenários. Também tenho breve experiência com programação em Unity e GameMaker.<br>
